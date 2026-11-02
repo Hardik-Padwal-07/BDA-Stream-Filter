@@ -1,0 +1,9 @@
+metric,value
+n,20000
+bloom_fp_rate,0.0
+bloom_theory_fp,0.0
+fm_exact,15079
+fm_estimate,16384.0
+fm_error_pct,8.65
+dgim_exact,5
+dgim_estimate,4
