@@ -1,5 +1,7 @@
 # Real-Time Stream Fraud Filter - BDA Mini Project (Module 4)
 
+Real-Time Fraud Detection on Payment Data Streams using Bloom Filter, Flajolet-Martin and DGIM
+
 No Hadoop. Pure Python + Streamlit. Single-pass mining of a payment stream.
 
 ## Problem (genuine)
